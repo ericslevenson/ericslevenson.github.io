@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I investigate surface water using satellites and kayaks.
+My long-term aim as a scientist and educator is to improve our collective understanding of water as its distribution shifts in response to environmental change and human development. My research primarily focuses on using satellites to measure surface water and track its changes through time. My motivation stems from our societal dependence on information about the amount of water stored or moving through lakes and rivers for managing water utilities, planning for flood risks, rehabilitating ecosystems, and creating tourism and recreational opportunities. Unfortunately, the 'in-situ' gauges that produce vital water monitoring are expensive and sparsely distributed. Therefore, my goal is to fill the water information gap using satellite data.
+
 
 A data-driven personal website
 ======
