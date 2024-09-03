@@ -21,17 +21,17 @@ Honors and Grants
   * $150,000 to fully fund PhD work towards buliding capacity to observe changes to surface water from spaceborne instruments.
 
 * Graduate Student Research Grant, Geological Society of America
-  *$2,500 of support for a field campaign to Alaska validating satellite observations.
+  *<span style="font-size:0.8em;">$2,500 of support for a field campaign to Alaska validating satellite observations </span>.
 
 * Rippey Award (x2), University of Oregon Department of Geography
-  * Support for fieldwork on the Sandy River. $1,000 in 2020.
-  * Support for computing costs. $1,000 in 2023.
+  * <span style="font-size:0.8em;">Support for fieldwork on the Sandy River. $1,000 in 2020</span>.
+  * <span style="font-size:0.8em;">Support for computing costs. $1,000 in 2023</span>.
 
 * Riley Research Award, Bowdoin College Department of Anthropology
-  * $2,094 towards reserach on the boat building industry's adaptations in Maine.
+  * <span style="font-size:0.8em;">$2,094 towards reserach on the boat building industry's adaptations in Maine</span>.
 
 * Sarah and James Bowdoin Scholar
-  * Recognition designated for students ranking iwthin the top 20% of their undergraduate class.
+  * <span style="font-size:0.8em;">Recognition designated for students ranking iwthin the top 20% of their undergraduate class</span>.
 
 Publications
 ======
