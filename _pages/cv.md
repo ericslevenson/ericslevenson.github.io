@@ -19,23 +19,29 @@ Education
 
 Honors and Grants
 -
-* NASA Future Investigator in Earth and Space Science and Technology
-  * $150,000 to fully fund PhD work towards buliding capacity to observe changes to surface water from spaceborne instruments.
+Total Funding Awarded: $156,094
+* NASA Future Investigator in Earth and Space Science and Technology (FINESST)
+  * <span style="font-size:0.85em;"> Fully funded PhD improving our capacity to observe changes to surface water from spaceborne instruments. </span>
 * Graduate Student Research Grant, Geological Society of America
-  * <span style="font-size:0.75em;">$2,500 of support for a field campaign to Alaska validating satellite observations </span>.
+  * <span style="font-size:0.85em;">$2,500 of support for a field campaign to Alaska validating satellite observations. </span>
 * Rippey Award (x2), University of Oregon Department of Geography
-  * <span style="font-size:0.75em;">Support for fieldwork on the Sandy River. $1,000 in 2020</span>.
-  * <span style="font-size:0.75em;">Support for computing costs. $1,000 in 2023</span>.
+  * <span style="font-size:0.85em;">Support for fieldwork on the Sandy River. $1,000 in 2020.</span>
+  * <span style="font-size:0.85em;">Support for computing costs. $1,000 in 2023.</span>
 * Riley Research Award, Bowdoin College Department of Anthropology
-  * <span style="font-size:0.75em;">$2,094 towards reserach on the boat building industry's adaptations in Maine</span>.
+  * <span style="font-size:0.85em;">$2,094 towards reserach on the boat building industry's adaptations in Maine.</span>
 * Sarah and James Bowdoin Scholar
-  * <span style="font-size:0.75em;">Recognition designated for students ranking iwthin the top 20% of their undergraduate class</span>.
+  * <span style="font-size:0.85em;">Recognition designated for students ranking iwthin the top 20% of their undergraduate class/</span>
 
 Experience
 -
-* XXX
-* XXX
-* XXX
+* NASA Graduate Student Fellow, University of Oregon (2023-Present)
+* Graduate Research Assistant, University of Oregon (2021-2023)
+* Instructor, Rios to Rivers Paddle Tribal Waters Program, Klamath River Basin (2024)
+* Graduate Teaching Assistant, University of Oregon (2019-2021)\
+* Math and Science Teacher, The Sage School, Hailey, ID (2016-2019)
+* Mathematics Teaching Fellow, Maine Coast Semester, Wiscasset, ME (2015-2016)
+* Whitewater Kayaking Coach, Jackson HOle Kayak Club (2019)
+* Trip Learder, Overland Summers, Alaska, Switzerland, Colorado, New England (2013-2016)
 
 Publications
 -
@@ -57,18 +63,12 @@ Presentations
 * Levenson, E.S. Methodological approaches to fluvial grain-size remote sensing. Bretz Club Mini-Conference. 2021.
 
 Teaching
-======
+-
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-Service and leadership
-======
 
+Service and leadership
+-
+* Graduate Representative to the UO Geography Diversity Committee (2022-2023)
+* President, UO Chapter of the American Society for Photogrammetry and Remote Senssing (2022-2024)
