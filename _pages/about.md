@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-*"Who would not choose to follow the sound of running waters? ...I can lean on the rail of a little bridge over a brook and contemplate its currents, its whirlpools, and its steady flow for as long as you like; with no sense or fear of that other flowing within and about me, that swift gliding away of time."* -Thomas Mann
+<span style="font-size:0.7em;">*"Who would not choose to follow the sound of running waters? ...I can lean on the rail of a little bridge over a brook and contemplate its currents, its whirlpools, and its steady flow for as long as you like; with no sense or fear of that other flowing within and about me, that swift gliding away of time."* -Thomas Mann </span>
 
 I am a geographer, which -- as Hal Mooney suggested -- means that I am "concerned with the changing spatial organization and material character of Earth's surface." Identifying as a geographer brings a perspective: that spatial variations are revealing, that physical and human processes are intertwined in the making of a place or development, and that we unwittingly use frame our descriptions of events and developments geographically (I'll do so within this website). But, in a practical day-to-day sense, I am a hydrologist, geomorphologist, geospatial data scientist, satellite remote sensorist, etc. I'm also a teacher.
 
