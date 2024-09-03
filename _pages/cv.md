@@ -22,7 +22,7 @@ Honors and Grants
 * NASA Future Investigator in Earth and Space Science and Technology
   * $150,000 to fully fund PhD work towards buliding capacity to observe changes to surface water from spaceborne instruments.
 * Graduate Student Research Grant, Geological Society of America
-  *<span style="font-size:0.75em;">$2,500 of support for a field campaign to Alaska validating satellite observations </span>.
+  * <span style="font-size:0.75em;">$2,500 of support for a field campaign to Alaska validating satellite observations </span>.
 * Rippey Award (x2), University of Oregon Department of Geography
   * <span style="font-size:0.75em;">Support for fieldwork on the Sandy River. $1,000 in 2020</span>.
   * <span style="font-size:0.75em;">Support for computing costs. $1,000 in 2023</span>.
@@ -33,9 +33,9 @@ Honors and Grants
 
 Experience
 -
-*XXX
-*XXX
-*XXX
+* XXX
+* XXX
+* XXX
 
 Publications
 -
