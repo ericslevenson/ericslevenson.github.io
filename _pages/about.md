@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a geographer, which means, as Hal Mooney suggested, that I am "concerned with the changing spatial organization and material character of Earth's surface." Geographer is how I think, but in a practical day-to-day sense, I am a hydrologist, geomorphologist, geospatial data scientist, satellite remote sensorist, etc. I'm also a teacher.
+As a geographer, I am, as Hal Mooney suggested, "concerned with the changing spatial organization and material character of Earth's surface." Identifying as a geographer brings a perspective: that spatial variations are revealing, that physical and human processes are intertwined in the making of a place or development, and that we unwittingly use frame our descriptions of events and developments geographically (I'll do so within this website). But, in a practical day-to-day sense, I am a hydrologist, geomorphologist, geospatial data scientist, satellite remote sensorist, etc. I'm also a teacher.
 
 Currently, I am a PhD Candidate at the University of Oregon where I am fully funded by NASA through their Early Career Research Program. 
 prone to ask the following questions: Where? Why there? and So What? My research and teaching express the following geographic thoughts: that spatial variations are revealing, that location and place are useful tools to see how seemingly separate processes interact, and that geographical representations  our descriptions of events and . My long-term aim as a scientist and educator is to improve our understanding of -- and relationship to -- water's movement across the landscape. 
