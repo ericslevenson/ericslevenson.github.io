@@ -19,7 +19,6 @@ Education
 
 Honors and Grants
 -
-Total Funding Awarded: $156,094
 * NASA Future Investigator in Earth and Space Science and Technology (FINESST)
   * <span style="font-size:0.85em;"> Fully funded PhD improving our capacity to observe changes to surface water from spaceborne instruments. </span>
 * Graduate Student Research Grant, Geological Society of America
@@ -31,6 +30,7 @@ Total Funding Awarded: $156,094
   * <span style="font-size:0.85em;">$2,094 towards reserach on the boat building industry's adaptations in Maine.</span>
 * Sarah and James Bowdoin Scholar
   * <span style="font-size:0.85em;">Recognition designated for students ranking iwthin the top 20% of their undergraduate class/</span>
+Total Funding Awarded: $156,094
 
 Experience
 -
@@ -51,7 +51,6 @@ Publications
 * Levenson, E.S., and Fonstad M.A. (2022). Characterizing coarse sediment grain size variability along the upper Sandy River, Oregon, via UAV remote sensing, Geomorphology, https://doi.org/10.1016/j.geomorph.2022.108447
 * Chafe, O. E., Broz, A. P., Levenson, E. S., Farinacci, M. D., Anderson, R. O., & Silva, L. C. (2024). The spatiotemporal domains of natural climate solutions research and strategies for implementation in the Pacific Northwest, USA. Frontiers in Climate, 6, 1273632.
 
-
 Presentations
 -
 * Levenson, E.S., Cooley, S.W., Mullen, A., Van Dusen, I., Analyzing local to regional scale patterns in surface water variability and their interaction with permafrost using a new high resolution Alaska lake database, AGU Fall meeting, Poster Presentation. 2023.
@@ -61,12 +60,6 @@ Presentations
 * Levenson, E.S. Remotely sensed grain-size distributions at high resolutions and across large extents reveals that bar-scale position modulates grain-size response to channel width within the upper Sandy River, Oregon. AGU Fall meeting. Oral Presentation. 2021.
 * Levenson, E.S. Hyperscale sediment grain-size mapping and sorting in relation to channel morphology. American Association of Geographers. Poster Presentation. 2021.
 * Levenson, E.S. Methodological approaches to fluvial grain-size remote sensing. Bretz Club Mini-Conference. 2021.
-
-Teaching
--
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Service and leadership
 -
