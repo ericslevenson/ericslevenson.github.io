@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<img src="![DJI_0223-3](https://github.com/user-attachments/assets/46ccc3da-786f-421a-9f7d-52af7484ae60)" alt="drawing" width="200"/>
+<br/><img src='/images/2023_06_jimlake_talkeetnas.jpg'>"
 
 
 {% include base_path %}
