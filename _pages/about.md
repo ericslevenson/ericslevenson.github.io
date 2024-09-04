@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-<span style="font-size:0.78em;">*"Who would not choose to follow the sound of running waters? ...I can lean on the rail of a little bridge over a brook and contemplate its currents, its whirlpools, and its steady flow for as long as you like; with no sense or fear of that other flowing within and about me, that swift gliding away of time." -Thomas Mann* </span>
+<span style="font-size:0.82em;">*"Who would not choose to follow the sound of running waters? ...I can lean on the rail of a little bridge over a brook and contemplate its currents, its whirlpools, and its steady flow for as long as you like; with no sense or fear of that other flowing within and about me, that swift gliding away of time." -Thomas Mann* </span>
 
-I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concerned with the changing spatial organization and material character of Earth's surface." Water is a wonderful material to consider geographically because describing its spatial organization requires an integrated understanding of human and physical processes. Currently, I am a PhD Candidate at the University of Oregon where I am fully funded by NASA through their Early Career Research Program. Although my research and funding to this point has focused on *regional scale* surface water patterns across the Arctic, I am also interested in the hydrology of specific *places* such as an individual watersheds, lakes, or river channels.
+I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concerned with the changing spatial organization and material character of Earth's surface." A geographic perspective applied to water recognizes that water's spatial variations are revealing, its 
+
+describing its spatial organization requires an integrated understanding of human and physical processes. Currently, I am a PhD Candidate at the University of Oregon where I am fully funded by NASA through their Early Career Research Program. Although my research and funding to this point has focused on *regional scale* surface water patterns across the Arctic, I am also interested in the hydrology of specific *places* such as an individual watersheds, lakes, or river channels.
 
 My interest in water spans scales ranging from the hydraulic structure of a single eddy to the water balance of entire regions, which has led me to specialize in the scientific disciplines of hydrology and geomorphology using geospatial data science tools such as satellite remote sensing, applied machine learning, and algorithm development to process very large volumes of geospatial data in cloud environments.
 
