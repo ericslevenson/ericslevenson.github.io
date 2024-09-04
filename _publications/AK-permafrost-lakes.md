@@ -7,3 +7,7 @@ date: 2024-09-05
 ---
 
 Here's my description...
+<br/><img src='/images/Figure1.jpg'>
+<br/><img src='/images/Figure2.jpg'>
+<br/><img src='/images/Figure3.jpg'>
+<br/><img src='/images/Figure4.jpg'>
