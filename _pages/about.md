@@ -11,7 +11,7 @@ redirect_from:
 
 <span style="font-size:0.82em;">*"Who would not choose to follow the sound of running waters? ...I can lean on the rail of a little bridge over a brook and contemplate its currents, its whirlpools, and its steady flow for as long as you like; with no sense or fear of that other flowing within and about me, that swift gliding away of time." -Thomas Mann* </span>
 
-Currently, I am a PhD Candidate at the University of Oregon where I am fully funded by NASA through their Early Career Research Program. I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concerned with the changing spatial organization and material character of Earth's surface." 
+Currently, I am a PhD Candidate at the University of Oregon where I am fully funded by NASA's Early Career Research Program. I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concerned with the changing spatial organization and material character of Earth's surface." 
 
 Surface water holds my attention, because it is a wonderful material to consider geographically. Spatial variations in surface water patterns reveal insights into ...
 
