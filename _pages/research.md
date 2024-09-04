@@ -5,7 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-![DJI_0223-3](https://github.com/user-attachments/assets/3db28d76-5858-4a65-8251-1e7f4cc16bf4)
+![DJI_0223-3](https://github.com/user-attachments/assets/d40b75ac-ad88-48c5-9205-1852848381eb)
+
 
 
 {% if site.author.googlescholar %}
