@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
+![DJI_0223-3](https://github.com/user-attachments/assets/3db28d76-5858-4a65-8251-1e7f4cc16bf4)
 
 
 
