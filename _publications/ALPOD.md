@@ -1,7 +1,7 @@
 ---
 title: "Alaska Lake and Pond Occurrence Dataset"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/ALPOD
 excerpt: 'A new dataset documenting lakes and ponds across Alaska at unprecedented spatiotemporal resolution'
 date: 2023
 venue: 'Journal 1'
