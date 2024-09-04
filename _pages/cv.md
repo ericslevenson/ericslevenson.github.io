@@ -29,7 +29,7 @@ Honors and Grants
 * Riley Research Award, Bowdoin College Department of Anthropology
   * <span style="font-size:0.85em;">$2,094 towards reserach on the boat building industry's adaptations in Maine.</span>
 * Sarah and James Bowdoin Scholar
-  * <span style="font-size:0.85em;">Recognition designated for students ranking iwthin the top 20% of their undergraduate class/</span>
+  * <span style="font-size:0.85em;">Recognition designated for students ranking iwthin the top 20% of their undergraduate class.</span>
 Total Funding Awarded: $156,094
 
 Experience
