@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concerned with the changing spatial organization and material character of Earth's surface." My current role as a PhD Candidate at the University of Oregon is fully funded by NASA's Early Career Research Program, which is enabling me to produce knowledge and share understanding 
+I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concerned with the changing spatial organization and material character of Earth's surface." My current position as a PhD Candidate at the University of Oregon is fully funded by NASA through their Early Career Research Program. My long-term aim is to 
 
 
 
-Surface water holds my attention, because it is a wonderful material to consider geographically. Spatial variations in surface water patterns reveal insights into ...
+Surface water is a wonderful material to consider geographically because of how much spatial variations in surface water patterns reveal about 
 
 On one hand, understanding and predicting changes to the spatial distribution of surface water requires that we embrace how a variety of human and physical processes interact, and on the other hand spatial variations in surface water's patterns can reveal insights for other topics of interest (e.g., climate change, urbanization, conflict, and risk). 
 
