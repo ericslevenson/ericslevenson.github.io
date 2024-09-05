@@ -32,7 +32,7 @@ Honors and Grants
   * <span style="font-size:0.85em;">Recognition designated for students ranking iwthin the top 20% of their undergraduate class.</span>
 * **Total Funding Awarded: $156,094.00**
 
-Experience
+Professional Experience
 -
 * NASA Graduate Student Fellow, University of Oregon (2023-Present)
 * Graduate Research Assistant, University of Oregon (2021-2023)
@@ -40,8 +40,8 @@ Experience
 * Graduate Teaching Assistant, University of Oregon (2019-2021)\
 * Math and Science Teacher, The Sage School, Hailey, ID (2016-2019)
 * Mathematics Teaching Fellow, Maine Coast Semester, Wiscasset, ME (2015-2016)
-* Whitewater Kayaking Coach, Jackson HOle Kayak Club (2019)
-* Trip Learder, Overland Summers, Alaska, Switzerland, Colorado, New England (2013-2016)
+* Whitewater Kayaking Coach, Jackson Hole Kayak Club (2019)
+* Trip Leader, Overland Summers, Alaska, Switzerland, Colorado, New England (2013-2016)
 
 Publications
 -
