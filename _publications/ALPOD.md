@@ -2,7 +2,7 @@
 title: "Alaska Lake and Pond Occurrence Dataset"
 collection: publications
 permalink: /research/ALPOD
-exceprt:""
+exceprt:" "
 date: 2024-09-05
 ---
 
