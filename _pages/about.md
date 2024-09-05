@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concerned with the changing spatial organization and material character of Earth's surface." My long-term aim is to...
-Towards that end, I am currently a PhD Candidate at the University of Oregon where I am fully funded by NASA's Early Career Research Program. 
+Towards that end, I am currently a PhD Candidate at the University of Oregon where I am fully funded by NASA to utilize satellite-based observations to improve our representation and understanding of the hydrologic cycle. 
 
 
  My interest in water spans scales ranging from the hydraulic structure of a single eddy to the global water balance; however, my research and funding to this point have focused on regional-scale surface water change across the Arctic. Surface water is a wonderful material to consider geographically because of how much spatial variations in surface water patterns reveal about The Arctic, too, is an ideal target for geographic questions -- Where? Why there? and So What? -- xxx...framed geographically, changing faster, 
