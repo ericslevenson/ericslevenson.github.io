@@ -2,7 +2,7 @@
 title: "Glacial history modifies permafrost controls over the distribution of lakes and ponds"
 collection: publications
 permalink: /research/AK-permafrost-lakes
-exceprt:
+exceprt:""
 date: 2024-09-05
 ---
 
