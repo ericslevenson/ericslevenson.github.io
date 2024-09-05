@@ -9,15 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concerned with the changing spatial organization and material character of Earth's surface." My current position as a PhD Candidate at the University of Oregon is fully funded by NASA through their Early Career Research Program. My long-term aim is to 
+I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concerned with the changing spatial organization and material character of Earth's surface." My long-term aim is to...
+Towards that end, I am currently a PhD Candidate at the University of Oregon where I am fully funded by NASA's Early Career Research Program. 
 
 
-
-Surface water is a wonderful material to consider geographically because of how much spatial variations in surface water patterns reveal about 
+ My interest in water spans scales ranging from the hydraulic structure of a single eddy to the global water balance; however, my research and funding to this point have focused on regional-scale surface water change across the Arctic. Surface water is a wonderful material to consider geographically because of how much spatial variations in surface water patterns reveal about The Arctic, too, is an ideal target for geographic questions -- Where? Why there? and So What? -- xxx...framed geographically, changing faster, 
 
 On one hand, understanding and predicting changes to the spatial distribution of surface water requires that we embrace how a variety of human and physical processes interact, and on the other hand spatial variations in surface water's patterns can reveal insights for other topics of interest (e.g., climate change, urbanization, conflict, and risk). 
 
- My interest in water spans scales ranging from the hydraulic structure of a single eddy to the global water balance; however, my research and funding to this point have focused on regional-scale surface water change across the Arctic. My contributions to  hydrology and geomorphology are based on improving our representations surface water's patterns and behavior, which enables better estimates of carbon fluxes, improved model calibration, and better predictions of future surface water change. 
+ My contributions to  hydrology and geomorphology are based on improving our representations surface water's patterns and behavior, which enables better estimates of carbon fluxes, improved model calibration, and better predictions of future surface water change. 
 and on a day-to-day basis I am usually developing and applying geospatial data science techniques such as satellite remote sensing, applied machine learning, algorithm development to process very large volumes of geospatial data, and Structure from Motion surveys.
 Although my research and funding to this point has focused on *regional scale* surface water patterns across the Arctic, I am also interested in the hydrology of specific *places* such as an individual watersheds, lakes, or river channels.
 
