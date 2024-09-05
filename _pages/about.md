@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Currently, I am a PhD Candidate at the University of Oregon where I am fully funded by NASA's Early Career Research Program. I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concerned with the changing spatial organization and material character of Earth's surface." 
+I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concerned with the changing spatial organization and material character of Earth's surface." My current role as a PhD Candidate at the University of Oregon is fully funded by NASA's Early Career Research Program, which is enabling me to produce knowledge and share understanding 
+
+
 
 Surface water holds my attention, because it is a wonderful material to consider geographically. Spatial variations in surface water patterns reveal insights into ...
 
@@ -25,8 +27,6 @@ Although my research and funding to this point has focused on *regional scale* s
 
 
 prone to ask the following questions: Where? Why there? and So What? My research and teaching express the following geographic thoughts: that spatial variations are revealing, that location and place are useful tools to see how seemingly separate processes interact, and that geographical representations  our descriptions of events and . My long-term aim as a scientist and educator is to improve our understanding of -- and relationship to -- water's movement across the landscape. 
-
-As Hal Mooney stated, a geographer is concerned with the changing spatial organization and material character of Earth's surface.
 
 My research primarily focuses on using satellites to measure surface water in the Arctic and track its changes through time. My motivation for this work is that 'in-situ' gauges that can monitor the volume of water flowing through rivers, or evaporating from lakes, are expensive and sparsely distributed in the Arctic. This is unfortunate because Arctic surface water 
 
