@@ -22,15 +22,15 @@ Honors and Grants
 * NASA Future Investigator in Earth and Space Science and Technology (FINESST)
   * <span style="font-size:0.85em;"> Fully funded PhD improving our capacity to observe changes to surface water from spaceborne instruments. </span>
 * Graduate Student Research Grant, Geological Society of America
-  * <span style="font-size:0.85em;">$2,500 of support for a field campaign to Alaska validating satellite observations. </span>
+  * <span style="font-size:0.85em;">Recognition and financial support for a field campaign to Alaska validating satellite observations. </span>
 * Rippey Award (x2), University of Oregon Department of Geography
-  * <span style="font-size:0.85em;">Support for fieldwork on the Sandy River. $1,000 in 2020.</span>
-  * <span style="font-size:0.85em;">Support for computing costs. $1,000 in 2023.</span>
+  * <span style="font-size:0.85em;">Support for fieldwork on the Sandy River in 2020.</span>
+  * <span style="font-size:0.85em;">Support for computing costs in 2023.</span>
 * Riley Research Award, Bowdoin College Department of Anthropology
   * <span style="font-size:0.85em;">$2,094 towards reserach on the boat building industry's adaptations in Maine.</span>
 * Sarah and James Bowdoin Scholar
   * <span style="font-size:0.85em;">Recognition designated for students ranking iwthin the top 20% of their undergraduate class.</span>
-* Total Funding Awarded: $156,094.00
+* **Total Funding Awarded: $156,094.00**
 
 Experience
 -
