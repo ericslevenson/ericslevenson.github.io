@@ -4,8 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<br/><img src='/images/2023_06_jimlake_talkeetnas.jpg' width="600" height="175"/>
-
+<br/><img src='/images/jimLake_banner.jpg'/>
 
 I enjoy the creative aspect of knowledge production, as well as the 'in-the-weeds' technical problem solving that is involved with constructing novel datasets. I am always building my methodological skillset, but much of my work to this point has included the following tools:
 * 'Computer Vision' algorithm development for satellite data.
