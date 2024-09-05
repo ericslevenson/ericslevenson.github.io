@@ -9,6 +9,7 @@ author_profile: true
 
 {% include base_path %}
 
+**See below for details on specific projects**
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
