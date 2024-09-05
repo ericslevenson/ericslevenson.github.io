@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<br/><img src='/images/2023_06_jimlake_talkeetnas.jpg' width="450" height="150"/>
+<br/><img src='/images/2023_06_jimlake_talkeetnas.jpg' width="800" height="150"/>
 
 
 {% include base_path %}
