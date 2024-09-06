@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 <img src='/images/jimLake_banner.jpg'/>
-My research is focused on leveraging satellite sensors and field measurements to *improve our representation of surface water and its changes through time*. <br/>
+<br/>My research is focused on leveraging satellite sensors and field measurements to *improve our representation of surface water and its changes through time*. <br/>
 **See links for details on specific projects**
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
