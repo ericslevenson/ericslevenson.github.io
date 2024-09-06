@@ -32,7 +32,9 @@ My research primarily focuses on using satellites to measure surface water in th
 
 My motivation stems from our societal dependence on information about the amount of water stored or moving through lakes and rivers for managing water utilities, planning for flood risks, rehabilitating ecosystems, and creating tourism and recreational opportunities. Unfortunately, the 'in-situ' gauges that produce vital water monitoring are expensive and sparsely distributed. Therefore, my goal is to fill the water information gap using satellite data.
 
-<img src='/images/sweetCreek2.jpg' > 
+<img src='/images/sweetCreekBanner2.jpg' > 
+<img src='/images/AlaskaBasin2.jpg' > 
+<img src='/images/rioFigueroabanner.jpg' > 
 <span style="font-size:0.82em;">*"Who would not choose to follow the sound of running waters? ...I can lean on the rail of a little bridge over a brook and contemplate its currents, its whirlpools, and its steady flow for as long as you like; with no sense or fear of that other flowing within and about me, that swift gliding away of time." -Thomas Mann* </span>
 
 
