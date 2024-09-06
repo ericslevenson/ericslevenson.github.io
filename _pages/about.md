@@ -34,7 +34,7 @@ My motivation stems from our societal dependence on information about the amount
 
 <span style="font-size:0.82em;">*"Who would not choose to follow the sound of running waters? ...I can lean on the rail of a little bridge over a brook and contemplate its currents, its whirlpools, and its steady flow for as long as you like; with no sense or fear of that other flowing within and about me, that swift gliding away of time." -Thomas Mann* </span>
 <img src='/images/sweetCreekBanner2.jpg' > <br/>
-<img src='/images/AlaskaBasin2.jpg' > >br/>
+<img src='/images/AlaskaBasin2.jpg' > <br/>
 <img src='/images/rioFigueroabanner.jpg' > 
 
 
