@@ -38,6 +38,7 @@ My motivation stems from our societal dependence on information about the amount
 <br/>
 <img src='/images/AlaskaBasin2.jpg' > 
 <br/>
+<br/>
 <img src='/images/rioFigueroabanner.jpg' > 
 
 
