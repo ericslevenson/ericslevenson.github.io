@@ -4,7 +4,12 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<br/><img src='/images/jimLake_banner.jpg'/>
+<img src='/images/jimLake_banner.jpg'/>
+My research is focused on leveraging satellite sensors and field measurements to *improve our representation of surface water and its changes through time*. 
+**See links for details on specific projects**
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 I view research as a creative and productive 
 I enjoy the creative aspect of knowledge production, as well as the 'in-the-weeds' technical problem solving that is involved with constructing novel datasets. I am always building my methodological skillset, but much of my work to this point has included the following tools:
@@ -17,10 +22,7 @@ I enjoy the creative aspect of knowledge production, as well as the 'in-the-weed
 
 {% include base_path %}
 
-**See below for details on specific projects**
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
 
 <br/>
 <br/>
