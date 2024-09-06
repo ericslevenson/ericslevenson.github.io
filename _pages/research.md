@@ -6,7 +6,6 @@ author_profile: true
 ---
 My research is focused on leveraging satellite data and field measurements to *improve our representation of surface water dynamics* for closer alignment with water's actual storage and movement across the landscape. This work is building towards an enhanced capacity to monitor past and current water developments (e.g., floods, scarcity, longer-term trends) and to predict hydrologic fluxes. <br/>
 <img src='/images/jimLake_banner.jpg'/>
-<br/>My research is focused on leveraging satellite sensors and field measurements to *improve our representation of surface water and its changes through time*. <br/>
 **See links for details on specific projects**
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
