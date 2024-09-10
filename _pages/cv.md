@@ -7,10 +7,10 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+
 
 <a href=" ericslevenson.github.io/files/CV.pdf ">Download CV</a>
-xx
+xxx
 
 Education
 -
