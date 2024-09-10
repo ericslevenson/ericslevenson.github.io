@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my CV here: 'https:ericslevenson.github.io/files/CV.pdf'
+<a href="{{ https:ericslevenson.github.io/files/CV.pdf }}">Download CV</a>
 
 Education
 -
