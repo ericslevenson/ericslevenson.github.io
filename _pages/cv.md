@@ -6,9 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 <a href=" /files/CV.pdf ">Download CV</a>
-
 
 Education
 -
