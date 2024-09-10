@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<a href=" /files/CV.pdf ">Download CV</a>
 <embed src="{{ site.baseurl }}/files/CV.pdf" width="600" height="700" type='application/pdf'> 
 
 Education
@@ -63,3 +62,6 @@ Service and leadership
 -
 * Graduate Representative to the UO Geography Diversity Committee (2022-2023)
 * President, UO Chapter of the American Society for Photogrammetry and Remote Senssing (2022-2024)
+* Wilderness First Responder
+* Swift Water Rescue
+* AIARE Level 1 Avalanche Safety
