@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="{ ericslevenson.github.io/files/CV.pdf }">Download CV</a>
-xx
+<a href="{{ ericslevenson.github.io/files/CV.pdf }}">Download CV</a>
+xxx
 
 Education
 -
