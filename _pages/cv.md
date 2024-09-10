@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="{{ https://ericslevenson.github.io/files/CV.pdf }}">Download CV</a>
+<a href="{ https://ericslevenson.github.io/files/CV.pdf }">Download CV</a>
 
 Education
 -
