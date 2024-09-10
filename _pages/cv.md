@@ -9,7 +9,7 @@ redirect_from:
 <img src='/files/CV.pdf'/>
 
 
-<a href=" ericslevenson.github.io/files/CV.pdf ">Download CV</a>
+<a href=" /files/CV.pdf ">Download CV</a>
 xxx
 
 Education
