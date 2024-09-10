@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<img src='/files/CV.pdf'/>
 
 
 <a href=" ericslevenson.github.io/files/CV.pdf ">Download CV</a>
