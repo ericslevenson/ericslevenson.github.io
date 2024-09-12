@@ -5,6 +5,8 @@ permalink: /research/ALPOD
 exceprt: " "
 date: 2024-09-05
 ---
+More in depth descriptions coming soon...
+
 <br/>
 <img src='/images/Figure1_cropped.jpg' width='700'> 
 
