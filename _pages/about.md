@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+This website is still under construction
 
 I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concerned with the changing spatial organization and material character of Earth's surface."  My long-term aim is to improve our understanding, predictions, and adaptations to water's changing storage and movement throughout the landscape. Towards this end, I am currently a PhD Candidate at the University of Oregon where I am fully funded by NASA to utilize satellite-based observations to improve our representation and understanding of the hydrologic cycle. 
 
