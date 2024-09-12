@@ -4,6 +4,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+This page is still under construction...
+
 My research is focused on leveraging satellite data and field measurements to *align our representation of surface water dynamics* with water's actual storage and movement across the landscape. This work is building towards an improve capacity to monitor past and current water developments (e.g., floods, scarcity, longer-term trends) and to predict hydrologic fluxes. <br/>
 <img src='/images/jimLake_banner.jpg'/>
 **See links for details on specific projects**
