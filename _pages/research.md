@@ -12,7 +12,9 @@ My research is focused on leveraging satellite data and field measurements to *a
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-[](Earth-from-space.md)
+
+
+
 I view research as a productive and creative approach to generating knowledge and contributing to a resilient society. In addition to the theoretical aspect of knowledge production, I really enjoy the 'in-the-weeds' technical problem solving that is involved in constructing and analyzing datasets. Much of my work is to **convert pixels to insights**
 I enjoy the creative aspect of knowledge production, as well as the 'in-the-weeds' technical problem solving that is involved with constructing novel datasets. I am always building my methodological skillset, but much of my work to this point has included the following tools:
 * 'Computer Vision' algorithm development for satellite data.
@@ -21,6 +23,9 @@ I enjoy the creative aspect of knowledge production, as well as the 'in-the-weed
 * Statistics and machine learning
 * Data visualization and cartography
 * Field surveys (Structure from Motion drone surveys, high-precision GNSS)
+
+
+<a href="Earth-from-space.md">Earth From Space</a>
 
 {% include base_path %}
 
