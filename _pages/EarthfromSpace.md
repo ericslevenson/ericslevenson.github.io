@@ -3,7 +3,7 @@ permalink: /Earth-from-space/
 title: "Earth-from-space"
 author_profile: true
 redirect_from: 
-  - /Earth-from-space/
+  - /EarthfromSpace/
   - /Earth-from-space.html
 ---
 
