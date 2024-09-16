@@ -4,7 +4,7 @@ title: "Earth-from-space"
 author_profile: true
 redirect_from: 
   - /Earth-from-space/
-  - /Earth-from-space.md
+  - /Earth-from-space.html
 ---
 
 **Earth from Space** <br/><br/>
