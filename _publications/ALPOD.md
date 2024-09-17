@@ -11,7 +11,7 @@ Improvements to the spatiotemporal resolution of satellite imagery in recent yea
 <br/>
 ALPOD provides a spatially explicit representation of the location and variability of over **1 million water bodies.** The figures below provide a visual introduction to the characteristics of the dataset.
 <img src='/images/Figure1_cropped.jpg' width='700'> Maps of ALPOD lakes. Panels (a-d) show ALPOD lake statistics calculated for HUC12 watersheds from the National Hydrography Dataset: (a) lake fraction (percentage of watershed covered by open water at least 25% of the study period), (b) average lake size within each watershed, (c) lake density calculated as the number of lakes per 100 km2, and (d) total shoreline distance (i.e., lake perimeter). Panel (e) shows the open water occurrence image for individual lakes ranging from 0.005 km2 to 66.24 km2, which shows relationship between open water occurrence and lake polygons, and (f) displays a detailed example of the vector products derived from the occurrence image within the Little Black River floodplain near the Yukon Flats.
-<br/>
+<br/><br/>
 More examples of the ALPOD vector product over local to regional scales:
 ALPOD at local scales      |  ALPOD at a regional scale
 :-------------------------:|:-------------------------:
