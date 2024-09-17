@@ -7,8 +7,8 @@ author_profile: true
 This page is still under construction...
 
 My research uses satellite data, field measurements, and geospatial data analysis to produce actionable science that can inform decision makers, managers, and the public. My PhD research focuses on *improving our representation of surface water dynamics to reflect water's actual storage and movement across the landscape*. This work is building towards the capacity to monitor past and current water developments (e.g., floods, scarcity, longer-term trends) and to predict hydrologic fluxes. <br/>
+# <a href="/files/Earth-from-Space.pdf"> On seeing Earth from space</a>
 <img src='/images/jimLake_banner.jpg'/>
-## <a href="/files/Earth-from-Space.pdf"> On seeing Earth from space</a>
 
 **See links for details on specific projects**
 {% for post in site.publications reversed %}
