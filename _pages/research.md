@@ -25,7 +25,7 @@ I enjoy the creative aspect of knowledge production, as well as the 'in-the-weed
 * Field surveys (Structure from Motion drone surveys, high-precision GNSS)
 
 
-<a href="/files/Earth-from-Space.pdf">****On seeing Earth from space****</a>
+<a href="/files/Earth-from-Space.pdf">#On seeing Earth from space</a>
 
 {% include base_path %}
 
