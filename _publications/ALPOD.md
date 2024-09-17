@@ -5,6 +5,7 @@ permalink: /research/ALPOD
 exceprt: " "
 date: 2024-09-05
 ---
+Those who are interested in working with the Alaska Lake and Pond Occurrence Dataset should reach out for access. 
 More in depth descriptions coming soon...
 
 <br/>
