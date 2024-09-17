@@ -21,3 +21,6 @@ Figure 1: Maps of ALPOD lakes. Panels (a-d) show ALPOD lake statistics calculate
 ALPOD at local scales      |  ALPOD at a regional scale
 :-------------------------:|:-------------------------:
 <img src='/images/Lake Dataset visuals-2.jpg'>  |  <img src='/images/Lake Dataset visuals-1.jpg' width='400'>
+
+![image](https://github.com/user-attachments/assets/a9122fff-ca99-4b64-a693-ebbc4ae594b7)
+![image](https://github.com/user-attachments/assets/63cf8ed1-ceb8-4a20-8b85-c450bb328df3)
