@@ -12,12 +12,11 @@ Improvements to the spatiotemporal resolution of satellite imagery in recent yea
 ALPOD provides a spatially explicit representation of the location and variability of over **1 million water bodies.** The figures below provide a visual introduction to the characteristics of the dataset.
 <img src='/images/Figure1_cropped.jpg' width='700'> Maps of ALPOD lakes. Panels (a-d) show ALPOD lake statistics calculated for HUC12 watersheds from the National Hydrography Dataset: (a) lake fraction (percentage of watershed covered by open water at least 25% of the study period), (b) average lake size within each watershed, (c) lake density calculated as the number of lakes per 100 km2, and (d) total shoreline distance (i.e., lake perimeter). Panel (e) shows the open water occurrence image for individual lakes ranging from 0.005 km2 to 66.24 km2, which shows relationship between open water occurrence and lake polygons, and (f) displays a detailed example of the vector products derived from the occurrence image within the Little Black River floodplain near the Yukon Flats.
 <br/>
-
-
+More examples of the ALPOD vector product over local to regional scales:
 ALPOD at local scales      |  ALPOD at a regional scale
 :-------------------------:|:-------------------------:
 <img src='/images/Lake Dataset visuals-2.jpg'>  |  <img src='/images/Lake Dataset visuals-1.jpg' width='400'>
-More examples of the ALPOD vector product over local to regional scales.
+
 
 ## Dataset Engineering
 Our datset construction methodology combines object and pixel-based water classification methods. Deep-learning semantic segmentation models such as U-Nets are useful for mapping lakes and ponds because they can separate these water bodies from features of the landscape  -- such as rivers, cloud shadows, hillshades, and burn scars -- that have similar reflectance properties as lakes. However, these models are computationally expensive and are not currently compatible with Google Earth Engine, thus limiting their applicability for occurrence mapping over a large study area. NDWI historam thresholding is a pixel-based method for mapping open water, and its computational efficiency promotes the utility of NDWI thresholding altorithms for mapping surface water over large extents and at high frequencies. Our approach overcomes the relative disadvantages of both the object and pixel0based classification methods by first using a U-Net lake identification model to produce a maximum possible lake extent mask across our study site. This mask filters out the extraneous features of the landscape listed aboe and serves as the 'region of interest' for an adaptive NDWI thresholding algorithm, which is a binary water classifier applied to every available Sentinel-2 image in GEE. The ALPOD lake occurrence raster is a singleband composite built from each of these open-water classifications. <br/>
