@@ -23,7 +23,7 @@ I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concern
 <img src='/images/rioFigueroabanner.jpg' > 
 
 
-Freshwater is a natural resource that simultaneously supports and threatens thriving human (and natural) communities. My interest in water spans scales ranging from the hydraulic structure of a single eddy to the global water balance; however, my research and funding to this point have focused on regional-scale surface water change across the Arctic. Surface water is a wonderful material to consider geographically because spatial variations in surface water patterns can reveal valuable insights into related processes such as regional climate, permafrost thaw, economic development, energy production, and vegetation dynamics (to name a few). The Arctic, too, is an ideal target for the classic geographic questions -- Where? Why there? and So What? -- because the climate and landscape in the northern latitudes is changing much faster than the rest of the globe. The thawing Arctic stokes fears of irreversible climate feedbacks with global consequences (e.g., carbon release from permafrost thaw), as well as hope for brand new investment opportunities in tourism, new shipping routes, and resource extraction.
+
 
 
 <img src='/images/Eric.png' > 
