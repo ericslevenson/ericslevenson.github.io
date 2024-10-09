@@ -25,5 +25,6 @@ I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concern
 <br/>
 <br/>
 
----
+Thanks for visiting,
 <img src='/images/Eric.png' > 
+
