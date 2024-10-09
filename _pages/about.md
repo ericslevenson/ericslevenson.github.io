@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-This website is still under construction
+<span style="font-size:0.75em;">Page Under Construction...</span>
 
 I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concerned with the changing spatial organization and material character of Earth's surface."  Currently, I am a PhD Candidate at the University of Oregon where I am fully funded by NASA to utilize satellite-based observations to improve our representation and understanding of the water cycle. I work with my advisor Sarah Cooley and her [research group](https://sites.duke.edu/coollab/) at Duke University's Divison of Earth and Climate Sciences at the Nicholas School of the Environment.
 <br/>
