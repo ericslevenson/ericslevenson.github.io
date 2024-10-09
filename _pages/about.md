@@ -22,9 +22,8 @@ I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concern
 <br/>
 <br/>
 <img src='/images/rioFigueroabanner.jpg' > 
+<br/>
+<br/>
 
-
-
-
-
+---
 <img src='/images/Eric.png' > 
