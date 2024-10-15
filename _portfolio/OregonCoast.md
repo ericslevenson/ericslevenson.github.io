@@ -9,5 +9,5 @@ collection: portfolio
 <img src='/images/nateArch1.jpg'>Nate is in an arch! <br/><br/>
 <img src='/images/nateArch2.jpg'>Nate is in an arch! <br/><br/>
 <img src='/images/nateArch3.jpg'>Nate is in an arch! <br/><br/>
-<img src='/images/sweetCreek_crop.jpg'>.Autumn in Sweet Creek in the Oregon Coast Range.<br/><br/>
+<img src='/images/sweetCreek_crop.jpg'>Autumn in Sweet Creek in the Oregon Coast Range.<br/><br/>
 
