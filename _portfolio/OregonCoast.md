@@ -10,11 +10,11 @@ collection: portfolio
 <img src='/images/nateArch2.jpg'>Paddling through an arch, part 2. <br/><br/>
 <img src='/images/nateArch3.jpg'>Paddling through an arch, part 3. <br/><br/>
 <img src='/images/sweetCreek_crop.jpg'>Autumn in Sweet Creek in the Oregon Coast Range.<br/><br/>
-Five pictures of cave adventures:
-<img src='/images/cave2.jpg'><br/><br/>
-<img src='/images/cave1.jpg'><br/><br/>
-<img src='/images/cave3.jpg'><br/><br/>
-<img src='/images/cave4.jpg'><br/><br/>
-<img src='/images/cave5.jpg'><br/><br/>
+<img src='/images/cave2.jpg'>Into the cave.<br/><br/>
+<img src='/images/cave5.jpg'>Within the cave.<br/><br/>
+<img src='/images/cave1.jpg'>Exiting the cave, part 1.<br/><br/>
+<img src='/images/cave3.jpg'>Exiting the cave, part 2.<br/><br/>
+
+
 
 
