@@ -4,10 +4,10 @@ excerpt: "Oregon Coast and Coast Range"
 collection: portfolio
 ---
 
-<img src='/images/FlorenceSand.jpg'>A windy day on the Florence Dunes. <br/><br/>
-<img src='/images/waves_lockedin.jpg'>Waking up to a big swell. Will we be able to paddle out? <br/><br/>
-<img src='/images/nateArch1.jpg'>Nate is in an arch! <br/><br/>
-<img src='/images/nateArch2.jpg'>Nate is in an arch! <br/><br/>
-<img src='/images/nateArch3.jpg'>Nate is in an arch! <br/><br/>
+<img src='/images/FlorenceSand.jpg'>Wind whips through the Florence dunes and leaves its mark. <br/><br/>
+<img src='/images/waves_lockedin.jpg'>Waking up to a big swell. <br/><br/>
+<img src='/images/nateArch1.jpg'>Paddling through an arch, part 1.<br/><br/>
+<img src='/images/nateArch2.jpg'>Paddling through an arch, part 2. <br/><br/>
+<img src='/images/nateArch3.jpg'>Paddling through an arch, part 3. <br/><br/>
 <img src='/images/sweetCreek_crop.jpg'>Autumn in Sweet Creek in the Oregon Coast Range.<br/><br/>
 
