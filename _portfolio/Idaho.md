@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 <img src='/images/PaulSkiing.jpg.jpg'>Exploring the Sawtooths. <br/><br/>
-<img src='/images/DeltaLake.jpg'>Alpine lakes.<br/><br/>
+<img src='/images/DeltaLake.jpg'>An alpine lake.<br/><br/>
 <img src='/images/PaulWalking.jpg'> <br/><br/>
 <img src='/images/AlaskaBasin2.jpg'>Alaska Basin.<br/><br/>
 <img src='/SnakeRiverPlain.jpg'>Southern Idaho <br/><br/>
