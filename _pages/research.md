@@ -4,8 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-This page is still under construction...
-
 My research uses satellite data, field measurements, and geospatial data analysis to produce actionable science that can inform decision makers, managers, and the public. My PhD research focuses on *improving our representation of surface water dynamics to reflect water's actual storage and movement across the landscape*. This work is building towards the capacity to monitor past and current water developments (e.g., floods, scarcity, longer-term trends) and to predict hydrologic fluxes. <br/>
  <img src='/images/jimLake_banner.jpg'/>
 
@@ -15,7 +13,6 @@ My research uses satellite data, field measurements, and geospatial data analysi
 {% endfor %}
 
 <br/>
-<img src='/images/zscore_animation_stero.gif' > 
 
 I view research as a productive and creative approach to generating knowledge and contributing to a resilient society. In addition to the theoretical aspect of knowledge production, I really enjoy the 'in-the-weeds' technical problem solving that is involved in constructing and analyzing datasets. Much of my work is to **convert pixels to insights.** I am always building my methodological skillset, but much of my work to this point has included the following tools:
 * 'Computer Vision' algorithm development for satellite data.
