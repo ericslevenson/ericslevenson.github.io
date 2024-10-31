@@ -13,8 +13,8 @@ I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concern
 <br/>
 ## <a href="/files/Earth-from-Space.pdf"> On seeing Earth from space</a>
 <p align="center">
-  <img src="/images/arcticPulse_smooth_crop.gif" width="700" alt="Arctic Pulse GIF">
-  <br/>The pulse of Arctic lakes in the summer...as seen by satellites.
+  <br/><br/>The summertime pulse of Arctic lakes...as seen by satellites.<br/><br/>
+  <img src="/images/arcticPulse_smooth_circle.gif" width="700" alt="Arctic Pulse GIF">
 </p>
 <br/>
 <span style="font-size:0.82em;"> *"Who would not choose to follow the sound of running waters? ...I can lean on the rail of a little bridge over a brook and contemplate its currents, its whirlpools, and its steady flow for as long as you like; with no sense or fear of that other flowing within and about me, that swift gliding away of time." -Thomas Mann* </span>
