@@ -13,7 +13,7 @@ I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concern
 <br/>
 ## <a href="/files/Earth-from-Space.pdf"> On seeing Earth from space</a>
 <p align="center">
-  <br/><br/>Watch Arctic lakes growing and shrinking throughout the summer from a satellite's-eye view.<br/><br/>
+  <br/><br/>Watch Arctic lakes expand and contract throughout the summer from a satellite's-eye view.<br/><br/>
   <img src="/images/arcticPulse_smooth_circle.gif" width="700" alt="Arctic Pulse GIF"><br/>
   To make this animation, I mapped lake extents in every available Sentinel-2 image from 2016-2023, in over 75,000 watersheds across the Arctic. You can read more about this specific project on the 'research' page.
 </p>
