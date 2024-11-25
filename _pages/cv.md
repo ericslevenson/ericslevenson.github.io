@@ -42,9 +42,9 @@ Professional Experience
 
 Publications
 -
-* Levenson. E.S., S.W. Cooley, A. Mullen, E.E. Webb, J.D. Watts. (submitted 2024). Glacial history modifies permafrost controls on the distribution of lakes and ponds.
+* Levenson. E.S., S.W. Cooley, A. Mullen, E.E. Webb, J.D. Watts. (accepted 2024). Glacial history modifies permafrost controls on the distribution of lakes and ponds. Geophysical Research Letters.
 * Levenson. E.S., S.W. Cooley (in prep). The timing and magnitude of pan-Arctic lake variability.
-* Mullen. A., J. D. Watts, B. M. Rogers M. L. Carroll, C.D. Elder, J. Noomah, Z. Williams, A. Bredder, E. Rickenbaugh, J. A. Caraballo-Vega, E.S Levenson, S.W. Cooley, S. Potter, Y. Yang, G. Fiske, C.E. Miller, S.M. Natali , T.A Douglas, E.D Kyzivat. (2023). Using High-Resolution Satellite Imagery and Deep Learning to Track Dynamic Seasonality in Small Water Bodies. Geophysical Research Letter, 50(7).
+* Mullen. A., J. D. Watts, B. M. Rogers M. L. Carroll, C.D. Elder, J. Noomah, Z. Williams, A. Bredder, E. Rickenbaugh, J. A. Caraballo-Vega, E.S Levenson, S.W. Cooley, S. Potter, Y. Yang, G. Fiske, C.E. Miller, S.M. Natali , T.A Douglas, E.D Kyzivat. (2023). Using High-Resolution Satellite Imagery and Deep Learning to Track Dynamic Seasonality in Small Water Bodies. Geophysical Research Letters, 50(7).
 * Levenson, E.S., and Fonstad M.A. (2022). Characterizing coarse sediment grain size variability along the upper Sandy River, Oregon, via UAV remote sensing, Geomorphology, https://doi.org/10.1016/j.geomorph.2022.108447
 * Chafe, O. E., Broz, A. P., Levenson, E. S., Farinacci, M. D., Anderson, R. O., & Silva, L. C. (2024). The spatiotemporal domains of natural climate solutions research and strategies for implementation in the Pacific Northwest, USA. Frontiers in Climate, 6, 1273632.
 
