@@ -5,7 +5,7 @@ permalink: /research/ALPOD
 exceprt: " "
 date: 2024-09-05
 ---
-Those who are interested in working with the Alaska Lake and Pond Occurrence Dataset should reach out for access. 
+The Alaska Lake and Pond Occurrence Dataset is available for download here: https://zenodo.org/records/14199365
 ## Motivation and dataset characteristics
 Improvements to the spatiotemporal resolution of satellite imagery in recent years have enabled researchers to document seasonal fluctuations in Arctic-Boreal waterbody extent. Their results demonstrate that the size, number, and total area of lakes and ponds can vary significantly over daily timescales, which limits the utility of static or snapshot-based surface water datasets for accurately characterizing the surface water distribution in high-northern latitudes. To overcome this limitation, we produced a lake and pond open-water occurrence map using every available Sentinel-2 image during the ice-free months of 2016-2021. This lake and pond occurrence raster is a singleband, 10 m resolution GeoTIFF covering all of Alaska with pixel values recording the percentage of observationsin which that location was identified as open water belonging to a lake or pond. We also produced vector-based lake products derived from the occurrence map at multiple occurrence thresholds. This lake dataset accounts for six years of dynamic seasonality and is thus more robust against the effects of degraded individual image quality due to clouds, cloud shadows, or haze. Our aim was to produce a dataset that has utility for understanding lake and pond dynamics at scales ranging from single water bodies to the entire state of Alaska. 
 <br/><br/>
