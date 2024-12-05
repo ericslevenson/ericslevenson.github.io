@@ -13,9 +13,9 @@ I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concern
 <br/>
 ## <a href="/files/Earth-from-Space.pdf"> On seeing Earth from space</a>
 <p align="center">
-  <br/><br/>Watch Arctic lakes expand and contract throughout the summer from a satellite's-eye view.<br/><br/>
+  <br/><br/>Watch Arctic lakes expand and contract throughout the summer from a satellite's-eye point of view.<br/><br/>
   <img src="/images/arcticPulse_smooth2_circle_24.gif" width="500" alt="Arctic Pulse GIF"><br/>
-  To make this animation, I mapped lake extents in every available Sentinel-2 image from 2016-2023, in over 75,000 watersheds across the Arctic. You can read more about this specific project on the 'research' page.
+  This animation shows how the lake area anomaly -- or difference from average lake area -- progresses through a typical summer. To produce this animation, I mapped lake extents in every available Sentinel-2 image from 2016-2023, in over 75,000 watersheds across the Arctic. You can read more about this specific project on the 'research' page.
 </p>
 <br/>
 <span style="font-size:0.82em;"> *"Who would not choose to follow the sound of running waters? ...I can lean on the rail of a little bridge over a brook and contemplate its currents, its whirlpools, and its steady flow for as long as you like; with no sense or fear of that other flowing within and about me, that swift gliding away of time." -Thomas Mann* </span>
