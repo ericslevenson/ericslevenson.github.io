@@ -37,6 +37,4 @@ __________________
 
 Thanks for visiting,
 
-<div style="text-align: left;">
-  <img src="/images/Eric.png">
-</div>
+<img src="/images/Eric.png" style="display: block; margin: 0; padding: 0;">
