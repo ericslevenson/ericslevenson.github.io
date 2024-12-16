@@ -13,7 +13,7 @@ I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concern
 <br/>
 ## <a href="/files/Earth-from-Space.pdf"> On seeing Earth from space</a>
 <p align="justify">
-  <br/><br/><span style="font-size:0.95em;">Watch Arctic lakes expand and contract throughout the summer from a satellite's-eye point of view.</span></p><br/><br/>
+  <br/><br/><span style="font-size:0.95em;">Watch Arctic lakes expand and contract throughout the summer from a satellite's-eye point of view.</span></p>
 <p align="center">
 <img src="/images/arcticPulse_smooth2_circle_24.gif" width="500" alt="Arctic Pulse GIF"><br/>
   </p>
