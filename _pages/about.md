@@ -32,6 +32,6 @@ I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concern
 <br/><br/>
 <img src='/images/rioFigueroabanner.jpg' > 
 <br/><br/>
-<hr style="height: 1px; background-color: black; border: none; margin: 20px 0;">;">
+<hr style="height: 1px; background-color: black; border: none; margin: 20px 0;">
 Thanks for visiting,<br/>
 <img src="/images/Eric.png" style="display: block; margin: 0; padding: 0;">
