@@ -15,7 +15,7 @@ I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concern
 <p align="justify">
   <br/><br/><span style="font-size:0.95em;">Watch Arctic lakes expand and contract throughout the summer from a satellite's-eye point of view.</span></p>
 <p align="center">
-<img src="/images/arcticPulse_smooth2_circle_24.gif" width="500" alt="Arctic Pulse GIF"><br/>
+<img src="/images/arcticPulse12_circle.gif" width="500" alt="Arctic Pulse GIF"><br/>
   </p>
 <p align="justify"><span style="font-size:0.85em;">This animation shows how the lake area anomaly -- or difference from average lake area -- progresses through a typical summer. To produce this animation, I mapped lake extents in every available Sentinel-2 image from 2016-2023, in over 75,000 watersheds across the Arctic. You can read more about this specific project on the 'research' page.</span>
 </p>
