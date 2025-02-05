@@ -26,7 +26,7 @@ I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concern
 
 <hr style="height: 2px; background-color: black; border: none; margin: 20px 0;">
 <br/>
-<span style="font-size:1.0em;"> Then again, sometimes it's worth ditching the satellites and taking a closer look at things.</span>
+<span style="font-size:1.0em;"> Sometimes, though, it's worth ditching the satellites and taking a closer look at things.</span>
 <img src= '/images/chile/confluence_BW1.jpg'>
 <br/><br/>
 <img src='/images/sweetCreekBanner2.jpg' > 
