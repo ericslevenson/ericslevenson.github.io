@@ -21,7 +21,7 @@ I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concern
   <img src="/images/anom_km_12_circle.gif" width="450" alt="Arctic Pulse GIF">
 </div>
 
-<p align="justify"><span style="font-size:1.0em;"> Both animations show the seasonal progression of lake area anomalies (differences from average lake area).The animation on the left highlights the timing of lake fluctuations regardless of the magnitude of lake area change, whereas the animation on the left shows where lakes are most seasonally variable. For maximum enjoyment, I recommend taking it all in for a cycle or two, and then focus on specific locations as the animation progresses. Quite a bit of data, computing power, and legwork goes into mapping the daily extent of lakes in over 75,000 Arctic watersheds, and you can read more about this specific project on the 'research' page.</span>
+<p align="justify"><span style="font-size:1.0em;"> Both animations show the seasonal progression of lake area anomalies (differences from average lake area). The animation on the left highlights the timing of lake fluctuations regardless of the magnitude of lake area change, whereas the animation on the right shows where lakes are most seasonally variable. For maximum enjoyment, I recommend taking it all in for a cycle or two, and then focus on specific locations as the animation progresses. Quite a bit of data, computing power, and legwork goes into mapping the daily extent of lakes in over 75,000 Arctic watersheds, and you can read more about this specific project on the 'research' page.</span>
 </p>
 
 <hr style="height: 2px; background-color: black; border: none; margin: 20px 0;">
