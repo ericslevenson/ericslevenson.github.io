@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 <p align="justify">
 I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concerned with the changing spatial organization and material character of Earth's surface."  Currently, I am a PhD Candidate at the University of Oregon where I am fully funded by NASA to utilize satellite-based observations to improve our representation and understanding of the water cycle. I work with my advisor Sarah Cooley and her <a href="https://sites.duke.edu/coollab/" target="_blank">research group</a> at Duke University's Divison of Earth and Climate Sciences at the Nicholas School of the Environment.</p>
-<br/>
 
 <p align="justify">
 <span style="font-size:1.0em;"><a href="/files/Earth-from-Space.pdf"> The lure to watch Earth from space</a> is strong.  Watch Arctic lakes expand and contract throughout a typical summer
