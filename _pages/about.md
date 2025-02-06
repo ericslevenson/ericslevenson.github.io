@@ -9,14 +9,15 @@ redirect_from:
 
 {% include base_path %}
 <p align="justify">
-I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concerned with the changing spatial organization and material character of Earth's surface."  Currently, I am a PhD Candidate at the University of Oregon where I am fully funded by NASA to utilize satellite-based observations to improve our representation and understanding of the water cycle. I work with my advisor Sarah Cooley and her <a href="https://sites.duke.edu/coollab/" target="_blank">research group</a> at Duke University's Divison of Earth and Climate Sciences at the Nicholas School of the Environment.</p>
+I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concerned with the changing spatial organization and material character of Earth's surface." Currently, I am a PhD Candidate at the University of Oregon where I am funded by NASA to utilize satellite data to monitor the water cycle. I work with my advisor Sarah Cooley and her <a href="https://sites.duke.edu/coollab/" target="_blank">research group</a> at Duke University's Division of Earth and Climate Sciences at the Nicholas School of the Environment.</p>
 
 <p align="justify">
 <span style="font-size:1.25em;"><a href="/files/Earth-from-Space.pdf"> The lure to watch Earth from space</a> is strong, for both the beauty and the insight available from a satellite's point of view. </span></p>
 
 <img src="/images/anom_z_12_circle.gif" alt="Arctic Pulse GIF">
 
-<p align="justify"><span style="font-size:1.0em;"> Arctic lakes expand and contract throughout a typical summer. This annual reccurrence is dramatic to watch, and changes to the timing or strength of the seasonal pattern is changing, then there could be dramatic consequences for carbon cycling and time-sensitive ecological relationships. This animation shows the progression of lake area anomalies (differences from average lake area) throughout a summer that is typical of 2016-2023. For maximum enjoyment, I recommend taking it all in for a cycle or two, before focusing on a specific location for each pass. Head to the 'research' page to read more about the motivation and methods for mapping near-daily lake area changes in over 75,000 Arctic watersheds using Sentinel-2 imagery.</span>
+<p align="justify"><span style="font-size:1.0em;"> Arctic lakes expand and contract throughout a typical summer. This annual reccurrence is dramatic to watch, and changes to the timing or strength of the seasonal pattern could have dramatic consequences for carbon cycling and time-sensitive ecological relationships. This animation shows the progression of lake area anomalies (differences from the average lake area) throughout a typical summer of 2016-2023. For maximum enjoyment, I recommend taking it all in for a cycle or two before focusing on a specific river basin for each pass. Head to the 'research' page to learn about the motivation and methods for mapping near-daily lake area changes in over 75,000 Arctic watersheds using Sentinel-2 imagery. ![image](https://github.com/user-attachments/assets/20bc2516-8ec7-4fb5-8181-07fd8b9e9b1a)
+</span>
 </p>
 
 <hr style="height: 2px; background-color: black; border: none; margin: 20px 0;">
