@@ -18,6 +18,8 @@ Honors and Grants
 -
 * NASA Future Investigator in Earth and Space Science and Technology (FINESST)
   * <span style="font-size:0.85em;"> Fully funded PhD improving our capacity to observe changes to surface water from spaceborne instruments. </span>
+* AGU Outstanding Student Paper Award -- Biogeosciences Division
+* AGU Outstanding Student Paper Award -- Hydrology Division
 * Graduate Student Research Grant, Geological Society of America
   * <span style="font-size:0.85em;">Recognition and financial support for a field campaign to Alaska validating satellite observations. </span>
 * Rippey Award (x2), University of Oregon Department of Geography
@@ -27,7 +29,7 @@ Honors and Grants
   * <span style="font-size:0.85em;">$2,094 towards reserach on the boat building industry's adaptations in Maine.</span>
 * Sarah and James Bowdoin Scholar
   * <span style="font-size:0.85em;">Recognition designated for students ranking iwthin the top 20% of their undergraduate class.</span>
-* **Total Funding Awarded: $156,094.00**
+* **Total Funding Awarded: $156,394.00**
 
 Professional Experience
 -
@@ -42,14 +44,17 @@ Professional Experience
 
 Publications
 -
-* Levenson. E.S., S.W. Cooley, A. Mullen, E.E. Webb, J.D. Watts. (accepted 2024). Glacial history modifies permafrost controls on the distribution of lakes and ponds. Geophysical Research Letters.
+* Levenson. E.S., S.W. Cooley, A. Mullen, E.E. Webb, J.D. Watts. (2025). Glacial history modifies permafrost controls on the distribution of lakes and ponds. Geophysical Research Letters.
 * Levenson. E.S., S.W. Cooley (in prep). The timing and magnitude of pan-Arctic lake variability.
+* Levenson. E.S. Improving satellite observed hydraulic geometry relationships through integrated SWOT and Sentinel-2 water mapping.
 * Mullen. A., J. D. Watts, B. M. Rogers M. L. Carroll, C.D. Elder, J. Noomah, Z. Williams, A. Bredder, E. Rickenbaugh, J. A. Caraballo-Vega, E.S Levenson, S.W. Cooley, S. Potter, Y. Yang, G. Fiske, C.E. Miller, S.M. Natali , T.A Douglas, E.D Kyzivat. (2023). Using High-Resolution Satellite Imagery and Deep Learning to Track Dynamic Seasonality in Small Water Bodies. Geophysical Research Letters, 50(7).
 * Levenson, E.S., and Fonstad M.A. (2022). Characterizing coarse sediment grain size variability along the upper Sandy River, Oregon, via UAV remote sensing, Geomorphology, https://doi.org/10.1016/j.geomorph.2022.108447
 * Chafe, O. E., Broz, A. P., Levenson, E. S., Farinacci, M. D., Anderson, R. O., & Silva, L. C. (2024). The spatiotemporal domains of natural climate solutions research and strategies for implementation in the Pacific Northwest, USA. Frontiers in Climate, 6, 1273632.
 
 Presentations
 -
+* Levenson, E.S., S.W. Cooley, A. Mullen, E. Webb, J. Watts. Glacial History Modifies Permafrost Controls on the Distribution of Arctic-Boreal Lakes and Ponds. AGU Fall meeting. Oral Presentation. 2024.
+* Levenson, E.S., S.W. Cooley. The Timing and Magnitude of Pan-Arctic Seasonal Lake Area fluctuations from 2016-2021. AGU Fall meeting. Poster Presentation. 2024.
 * Levenson, E.S., Cooley, S.W., Mullen, A., Van Dusen, I., Analyzing local to regional scale patterns in surface water variability and their interaction with permafrost using a new high resolution Alaska lake database, AGU Fall meeting, Poster Presentation. 2023.
 * Levenson, E.S., Cooley, S.W., Mullen, A., Lake distribution and dynamics in the Alaskan Arctic from 2016-2021, AGU Fall meeting, Poster Presentation. 2022.
 * Cooley, S.W., Levenson, E.S., Leveraging novel satellite technologies to better understand permafrost-surface water feedbacks. Invited Oral Presentation. 2022.
@@ -58,8 +63,14 @@ Presentations
 * Levenson, E.S. Hyperscale sediment grain-size mapping and sorting in relation to channel morphology. American Association of Geographers. Poster Presentation. 2021.
 * Levenson, E.S. Methodological approaches to fluvial grain-size remote sensing. Bretz Club Mini-Conference. 2021.
 
+Invited Seminars
+-
+USGS Water Mission Area, "Mapping Alaska's Lakes and Ponds and Their Permafrost Interactions"
+Alaska Geospatial Council "Hydrography Working Group, The Alaska Lake and Pond Occurrence Dataset, and novel SWOT applications for the future of Alaska Hydrology"
+
 Service and leadership
 -
+* SWOT River Science Working Group
 * Graduate Representative to the UO Geography Diversity Committee (2022-2023)
 * President, UO Chapter of the American Society for Photogrammetry and Remote Senssing (2022-2024)
 * Wilderness First Responder
