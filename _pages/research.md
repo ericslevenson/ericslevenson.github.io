@@ -4,7 +4,14 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-My research uses satellite data, field measurements, and geospatial data analysis to produce actionable science that can inform decision makers, managers, and the public. My PhD research focuses on *improving our representation of surface water dynamics to reflect water's actual storage and movement across the landscape*. This work is building towards the capacity to monitor past and current water developments (e.g., floods, scarcity, longer-term trends) and to predict hydrologic fluxes. <br/>
+
+My research addresses basic and applied questions integrating the following topics:
+
+**Arctic Environmental Change**
+**Physical Hydrology**
+**Geospatial AI**
+
+Specifically, much of my time and expertise is dedicated to developing models, algorithms, and strategies to produce state-of-the-art surface water surveys using satellite data. This work seeks to improve our representation of surface water dynamics to reflect water's actual storage and movement across the landscape. I leverage these new hydrologic datasets to address key questions about the changing Arctic (where in situ data is sparse and surface water dominates the landscape), and to improve water resource monitoring capabilities in data sparse regions.
  <img src='/images/jimLake_banner.jpg'/>
 
 **See links for details on specific projects**
