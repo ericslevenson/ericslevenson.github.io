@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<embed src="{{ site.baseurl }}/files/Levenson_CV_Apr2025.pdf" width="600" height="700" type='application/pdf'> 
+<embed src="{{ site.baseurl }}/files/Levenson_CV_May2025.pdf" width="600" height="700" type='application/pdf'> 
 
 Education
 -
