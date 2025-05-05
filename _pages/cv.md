@@ -46,7 +46,8 @@ Publications
 -
 * Levenson. E.S., S.W. Cooley, A. Mullen, E.E. Webb, J.D. Watts. (2025). Glacial history modifies permafrost controls on the distribution of lakes and ponds. Geophysical Research Letters.
 * Levenson. E.S., S.W. Cooley (in prep). The timing and magnitude of pan-Arctic lake variability.
-* Levenson. E.S. Improving satellite observed hydraulic geometry relationships through integrated SWOT and Sentinel-2 water mapping.
+* Pletcher, A., S.W. Cooley, E.S. Levenson (submitted). Observing fine-scale lake ice breakup dynamics in the Lower Kuskokwim River Basin, Alaska.
+* Levenson. E.S. (in prep)Improving satellite-derived observed water storage estimates through integrated SWOT and Sentinel-2 water mapping.
 * Mullen. A., J. D. Watts, B. M. Rogers M. L. Carroll, C.D. Elder, J. Noomah, Z. Williams, A. Bredder, E. Rickenbaugh, J. A. Caraballo-Vega, E.S Levenson, S.W. Cooley, S. Potter, Y. Yang, G. Fiske, C.E. Miller, S.M. Natali , T.A Douglas, E.D Kyzivat. (2023). Using High-Resolution Satellite Imagery and Deep Learning to Track Dynamic Seasonality in Small Water Bodies. Geophysical Research Letters, 50(7).
 * Levenson, E.S., and Fonstad M.A. (2022). Characterizing coarse sediment grain size variability along the upper Sandy River, Oregon, via UAV remote sensing, Geomorphology, https://doi.org/10.1016/j.geomorph.2022.108447
 * Chafe, O. E., Broz, A. P., Levenson, E. S., Farinacci, M. D., Anderson, R. O., & Silva, L. C. (2024). The spatiotemporal domains of natural climate solutions research and strategies for implementation in the Pacific Northwest, USA. Frontiers in Climate, 6, 1273632.
@@ -65,6 +66,7 @@ Presentations
 
 Invited Seminars
 -
+AGU Biogeosciences Early Career Seminar, "Glacial History Modifies Permafrost Controls on the Distribution of Lakes and Ponds"
 USGS Water Mission Area, "Mapping Alaska's Lakes and Ponds and Their Permafrost Interactions"
 Alaska Geospatial Council "Hydrography Working Group, The Alaska Lake and Pond Occurrence Dataset, and novel SWOT applications for the future of Alaska Hydrology"
 
