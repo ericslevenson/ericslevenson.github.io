@@ -7,9 +7,9 @@ author_profile: true
 
 My research addresses basic and applied questions integrating the following topics:
 
-**Arctic Environmental Change** <br/>
-**Physical Hydrology** <br/>
-**Geospatial AI** 
+* **Arctic Environmental Change** <br/>
+* **Physical Hydrology** <br/>
+* **Geospatial AI** 
 
 Specifically, much of my time and expertise is dedicated to developing models, algorithms, and strategies to produce state-of-the-art surface water surveys using satellite data. I aim to improve our representation of surface water dynamics to reflect water's actual storage and movement across the landscape by producing new hydrologic datasets, which I leverage to (a) address key questions about the changing Arctic (where in situ data is sparse and surface water dominates the landscape), and (b) to improve water resource monitoring capabilities in data sparse regions.
  <img src='/images/jimLake_banner.jpg'/>
