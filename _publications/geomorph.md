@@ -3,7 +3,7 @@ title: "Sources of Grain Size Variability: Sandy River, Oregon "
 collection: publications
 permalink: /research/FluvialGeomorph
 exceprt: " "
-date: 2024-09-05
+date: 
 ---
 For more information, this research is published in *Geomorphology*: https://doi.org/10.1016/j.geomorph.2022.108447
 
