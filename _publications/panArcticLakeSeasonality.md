@@ -11,7 +11,7 @@ Arctic lakes' seasonal fluctuations are essentially unquantified aside from a ha
 
 In this project, we documented the open water lake area during the 2016-2023 ice free seasons across the entire Arctic north of 60 degrees, at near-daily frequency. The analysis of these results are ongoing, so the results presented here are just *teasers* for the time being. More to come...
 
-<img src='/images/arcticPulse1season.jpg'>
+<img src='/images/lakeseasonality.png'>
 
 
 <img src='/images/spatialPatterns.jpg'>
