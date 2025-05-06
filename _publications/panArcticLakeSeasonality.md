@@ -1,5 +1,5 @@
 ---
-title: "The timing and magnitude of pan-Arctic lake variability"
+title: "The timing and magnitude of pan-Arctic lake seasonality"
 collection: publications
 permalink: /research/panArcticSeasonality
 excerpt: " "
