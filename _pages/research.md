@@ -22,6 +22,7 @@ Specifically, I aim to improve our representation of surface water dynamics to r
 <br/>
 <p align='justify'/> 
 I view research as a productive and creative approach to generating knowledge and contributing to a resilient society. In addition to the theoretical aspect of knowledge production, I really enjoy the 'in-the-weeds' technical problem solving that is involved in constructing and analyzing datasets. Much of my work is to **convert pixels to insights.** I am always building my methodological skillset, but much of my work to this point has included the following tools:<p/>
+ 
 * 'Computer Vision' algorithm development for satellite data.
   * Google Earth Engine, cloud-based SpatioTemporal Asset Catalogs (STAC), and automated geospatial analysis in Python.
 * Time Series processing
