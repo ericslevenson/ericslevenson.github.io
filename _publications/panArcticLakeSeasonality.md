@@ -13,5 +13,6 @@ Disentangling lake area seasonality is critical to accurately measuring long-ter
 
 <img src='/images/hydro_regimes.png'> <br/>
 
-How do recent changes in snowmelt timing influence interannual lake area variability?
+**How do recent changes in snowmelt timing influence interannual lake area variability?** 
 <img src='/images/snowmelt.png'>
+Well, it appears that a given year's maximum lake area is particularly sensitive to snowmelt timing: earlier snowmelt leads to decreased lake area. This is likely due to both the amount of snow water equivalent stored in the snowpack, as well as changes to the partioning between runoff (to lakes) and evapotranspiration (to the atmosphere) caused by higher spring temperatures. This raises an interesting question about the role of snowmelt timing in decadal-scale lake area changes that were previously attributed to permafrost thaw.
