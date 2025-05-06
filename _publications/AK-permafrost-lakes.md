@@ -3,7 +3,7 @@ title: "Glacial history modifies permafrost controls over the distribution of la
 collection: publications
 permalink: /research/AK-permafrost-lakes
 exceprt: " "
-date: 2024-09-05
+date: 2024-10-05
 ---
 
 Permafrost thaw causes lakes to appear, grow, shrink, and completely drain. The dynamic relationship between lakes and permafrost is one of the central storylines of Arctic environmental change, along with sea ice loss and regional greening (i.e., vegetation growth). Thawing permafrost destabilizes a carbon pool so large that it's fate has consequences at a global scales. Scientists have observed net lake area increases AND decreases in the northern permafrost zone...a contradiction that confuses our imagination of the Arctic's future. We need a good sense of the direction of lake area change because it fundamentally alters the region's energy and carbon balance, as well as wildlife habitat and water resources for remote communities.
