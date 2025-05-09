@@ -9,7 +9,7 @@ Arctic lakes expand and contract over daily to interannual timescales, reflectin
 
 <img src='/images/lakeseasonality.png'>
 
-Disentangling lake area seasonality is critical to accurately measuring long-term lake area trends. Additionally, high-latitude ecological processes can be just as sensitivie to the timing of freshwater fluxes as their magnitudes. In this project, I documented the open water lake area during the 2016-2023 ice free seasons across the entire Arctic north of 60 degrees, at near-daily frequency. The analysis of these results are ongoing, so the results presented here are just *teasers* for the time being. More to come...
+Disentangling lake area seasonality is critical to accurately measuring long-term lake area trends. Additionally, high-latitude ecological processes can be just as sensitive to changes to the timing of freshwater fluxes as to their magnitudes. In this project, I documented the open water lake area during the 2016-2023 ice free seasons across the entire Arctic north of 60 degrees, at near-daily frequency. The analysis of these results are ongoing, so the results presented here are just *teasers* for the time being. More to come...
 
 <img src='/images/hydro_regimes.png'> <br/>
 
