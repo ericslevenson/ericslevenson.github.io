@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Although this website highlights my research activity, most of my professional experience and many of my career goals are centered on education. I consider teaching to be one of scientists' most important responsibilities in shaping a positive future for our communities. My teaching experience began while leading outdoor leadership courses throughout college. While romping across Alaska and Switzerland with a crew of students in the earliest stages of my career life, I found teaching to be a serious but joyful craft.
+Although this website highlights my research activity, most of my professional experience and many of my career goals are centered on education. What could be more powerful than a young person who seeks meaning in the world with genuine enthusiasm with the capacity to test ideas and communicate effectively? I consider teaching to be one of scientists' most important responsibilities in shaping a positive future for our communities. 
 
 My classroom teaching experience ranges from middle school to undergraduate students:
 * The Sage School, Hailey, Idaho. 6th and 7th Grade Math and Science; High School Math
@@ -19,6 +19,6 @@ Much of my teaching experience has been outside of the classroom as well:
 * Trip Leader for Overland Summers
 * Whitewater Kayaking Coach for Jackson Hole Kayak Club
 
-
+Through these experiences I have found teaching to be a serious but joyful craft. In fact, I don't really love the term 'teaching' because it focuses too much on the educator rather than the student. Guiding may be a more appropriate term.
 
 {% include base_path %}
