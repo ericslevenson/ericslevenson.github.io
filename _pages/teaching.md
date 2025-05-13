@@ -4,8 +4,8 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
-Although this website highlights my research activity, most of my professional experience and many of my career goals are centered on education. What could be more powerful than a young person who seeks meaning in the world with genuine enthusiasm with the capacity to test ideas and communicate effectively? I consider teaching to be one of scientists' most important responsibilities in shaping a positive future for our communities. 
+<p justify>
+Although this website highlights my research activity, most of my professional experience and many of my career goals are centered on education. What could be more powerful than a young person who seeks meaning in the world with genuine enthusiasm with the capacity to test ideas and communicate effectively? I consider teaching to be one of scientists' most important responsibilities in shaping a positive future for our communities. </p>
 
 My classroom teaching experience ranges from middle school to undergraduate students:
 * The Sage School, Hailey, Idaho. 6th and 7th Grade Math and Science; High School Math
