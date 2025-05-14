@@ -21,7 +21,7 @@ Much of my teaching experience has been outside of the classroom as well:
 * Instructor for Rios to Rivers Paddle Tribal Waters
 * Trip Leader for Overland Summers
 * Whitewater Kayaking Coach for Jackson Hole Kayak Club
-<img src="/images/switzerland.JPG">
+<img src="/images/switzerland.JPG" style="height: 350px;">
 
 <p align="justify">
 Through these experiences I have found teaching to be a serious but joyful craft. In fact, I don't really love the term 'teaching' because it focuses too much on the educator rather than the student. Guiding may be a more appropriate term. </p>
