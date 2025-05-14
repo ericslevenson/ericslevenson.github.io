@@ -20,7 +20,7 @@ For any educator, I'd highly recommend that reading The Sage School's mission, v
 Much of my teaching experience has been outside of the classroom as well:
 * Instructor for Rios to Rivers Paddle Tribal Waters
 * Trip Leader for Overland Summers
-* Whitewater Kayaking Coach for Jackson Hole Kayak Club
+* Whitewater Kayaking Coach for Jackson Hole Kayak Club <br/>
 <img src="/images/switzerland.JPG" style="height: 350px;">
 
 <p align="justify">
