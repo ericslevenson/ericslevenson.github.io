@@ -18,6 +18,7 @@ Honors and Grants
 -
 * NASA Future Investigator in Earth and Space Science and Technology (FINESST)
   * <span style="font-size:0.85em;"> Fully funded PhD improving our capacity to observe changes to surface water from spaceborne instruments. </span>
+* Rippey Dissertation Writing Fellowship (2025)
 * AGU Outstanding Student Paper Award -- Biogeosciences Division
 * AGU Outstanding Student Paper Award -- Hydrology Division
 * Graduate Student Research Grant, Geological Society of America
@@ -29,7 +30,7 @@ Honors and Grants
   * <span style="font-size:0.85em;">$2,094 towards reserach on the boat building industry's adaptations in Maine.</span>
 * Sarah and James Bowdoin Scholar
   * <span style="font-size:0.85em;">Recognition designated for students ranking iwthin the top 20% of their undergraduate class.</span>
-* **Total Funding Awarded: $156,394.00**
+* **Total Funding Awarded: $161,894.00**
 
 Professional Experience
 -
