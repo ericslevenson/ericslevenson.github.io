@@ -15,7 +15,7 @@ My classroom teaching experience ranges from middle school to undergraduate stud
 <img src="/images/sage_cityofrocks.JPG" style="height: 250px;">
 
 <p align="justify">
-For any educator, I'd highly recommend that reading The Sage School's mission, vision, and philosophy. I joined the faculty in the school's 6th year and played an active role in designing curriculum and school programs. The faculty and students at Sage have strongly shaped my approach to teaching and curriculum design: \[The Sage School\](https://thesageschool.org/). This is one of the few schools that I believe 'walks the walk' when it comes to living their mission to offer a student-centered experience, providing an active and engaging curriculum as well as genuine connections between students and teachers. </p>
+For any educator, I'd highly recommend that reading The Sage School's mission, vision, and philosophy. I joined the faculty in the school's 6th year and played an active role in designing curriculum and school programs. The faculty and students at Sage have strongly shaped my approach to teaching and curriculum design: <a href="https://thesageschool.org/">[The Sage School]</a>. This is one of the few schools that I believe 'walks the walk' when it comes to living their mission to offer a student-centered experience, providing an active and engaging curriculum as well as genuine connections between students and teachers. </p>
 
 Much of my teaching experience has been outside of the classroom as well:
 * Instructor for Rios to Rivers Paddle Tribal Waters
