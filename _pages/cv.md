@@ -45,16 +45,24 @@ Professional Experience
 
 Publications
 -
-* Levenson. E.S., S.W. Cooley, A. Mullen, E.E. Webb, J.D. Watts. (2025). Glacial history modifies permafrost controls on the distribution of lakes and ponds. Geophysical Research Letters.
+**Submitted and In Prep**
+* Levenson. E.S. (in prep). SWOT Performance Assessment and Multi-Sensor Enhancements for Water Storage Monitoring.
 * Levenson. E.S., S.W. Cooley (in prep). The timing and magnitude of pan-Arctic lake variability.
-* Pletcher, A., S.W. Cooley, E.S. Levenson (submitted). Observing fine-scale lake ice breakup dynamics in the Lower Kuskokwim River Basin, Alaska.
-* Levenson. E.S. (in prep). Improving satellite-based water storage estimates through integrated SWOT and Sentinel-2 water mapping.
+* Simpson, A., E.S. Levenson, L. Karlstrom, S.W. Cooley. (submitted). Hydrologic Implications of Seasonally Draining Lakes in the Central Oregon Cascades. Water Resources Research.
+* Webb, E.E., S.W. Cooley, E.S. Levenson, J. Maze. (submitted). Discrepancies in Arctic-Boreal lake area trends driven by sensitivity to dry conditions. Hydrology and Earth System Sciences.
+* Webb E.E., S.W. Cooley, E.S. Levenson. (submitted). Temporal bias in Landsat-derived surface water trends. Nature.
+* Cooley, S.W., E.E. Webb, E.S. Levenson, J.C. Ryan. (submitted). Lakes modify the magnitude and timing of the Northern Hemisphere Terrestrial Cyrosphere Radiative Effect. PNAS.
+**Published**
+* Levenson. E.S., S.W. Cooley, A. Mullen, E.E. Webb, J.D. Watts. (2025). Glacial history modifies permafrost controls on the distribution of lakes and ponds. Geophysical Research Letters.
+* Pletcher, A., S.W. Cooley, E.S. Levenson (accepted 2025). Observing fine-scale lake ice breakup dynamics in the Lower Kuskokwim River Basin, Alaska. *Hydrological Processes*.
+* Levenson, E.S., Cooley, S. W., & Mullen, A. (2025). ABoVE: Alaska Lake and Pond Occurrence. ORNL DAAC, Oak Ridge, Tennessee, USA. https://doi.org/10.3334/ORNLDAAC/2399
 * Mullen. A., J. D. Watts, B. M. Rogers M. L. Carroll, C.D. Elder, J. Noomah, Z. Williams, A. Bredder, E. Rickenbaugh, J. A. Caraballo-Vega, E.S Levenson, S.W. Cooley, S. Potter, Y. Yang, G. Fiske, C.E. Miller, S.M. Natali , T.A Douglas, E.D Kyzivat. (2023). Using High-Resolution Satellite Imagery and Deep Learning to Track Dynamic Seasonality in Small Water Bodies. Geophysical Research Letters, 50(7).
 * Levenson, E.S., and Fonstad M.A. (2022). Characterizing coarse sediment grain size variability along the upper Sandy River, Oregon, via UAV remote sensing, Geomorphology, https://doi.org/10.1016/j.geomorph.2022.108447
 * Chafe, O. E., Broz, A. P., Levenson, E. S., Farinacci, M. D., Anderson, R. O., & Silva, L. C. (2024). The spatiotemporal domains of natural climate solutions research and strategies for implementation in the Pacific Northwest, USA. Frontiers in Climate, 6, 1273632.
 
-Presentations
+Selected Presentations
 -
+* Levenson, E.S., S.W. Cooley, E.E. Webb, C. Kluetmeier. Improved SWOT surface water storage monitoring through multi-sensor harmonization. SWOT Science Team Meeting. October 2025.
 * Levenson, E.S., S.W. Cooley, A. Mullen, E. Webb, J. Watts. Glacial History Modifies Permafrost Controls on the Distribution of Arctic-Boreal Lakes and Ponds. AGU Fall meeting. Oral Presentation. 2024.
 * Levenson, E.S., S.W. Cooley. The Timing and Magnitude of Pan-Arctic Seasonal Lake Area fluctuations from 2016-2021. AGU Fall meeting. Poster Presentation. 2024.
 * Levenson, E.S., Cooley, S.W., Mullen, A., Van Dusen, I., Analyzing local to regional scale patterns in surface water variability and their interaction with permafrost using a new high resolution Alaska lake database, AGU Fall meeting, Poster Presentation. 2023.
