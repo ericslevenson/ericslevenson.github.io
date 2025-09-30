@@ -37,7 +37,7 @@ Professional Experience
 * NASA Graduate Student Fellow, University of Oregon (2023-Present)
 * Graduate Research Assistant, University of Oregon (2021-2023)
 * Instructor, Rios to Rivers Paddle Tribal Waters Program, Klamath River Basin (2024)
-* Graduate Teaching Assistant, University of Oregon (2019-2021)\
+* Graduate Teaching Assistant, University of Oregon (2019-2021)
 * Math and Science Teacher, The Sage School, Hailey, ID (2016-2019)
 * Mathematics Teaching Fellow, Maine Coast Semester, Wiscasset, ME (2015-2016)
 * Whitewater Kayaking Coach, Jackson Hole Kayak Club (2019)
@@ -52,7 +52,7 @@ Publications
 * Webb, E.E., S.W. Cooley, E.S. Levenson, J. Maze. (submitted). Discrepancies in Arctic-Boreal lake area trends driven by sensitivity to dry conditions. Hydrology and Earth System Sciences.
 * Webb E.E., S.W. Cooley, E.S. Levenson. (submitted). Temporal bias in Landsat-derived surface water trends. Nature.
 * Cooley, S.W., E.E. Webb, E.S. Levenson, J.C. Ryan. (submitted). Lakes modify the magnitude and timing of the Northern Hemisphere Terrestrial Cyrosphere Radiative Effect. PNAS.
-**Published**
+<br/><br/>**Published**
 * Levenson. E.S., S.W. Cooley, A. Mullen, E.E. Webb, J.D. Watts. (2025). Glacial history modifies permafrost controls on the distribution of lakes and ponds. Geophysical Research Letters.
 * Pletcher, A., S.W. Cooley, E.S. Levenson (accepted 2025). Observing fine-scale lake ice breakup dynamics in the Lower Kuskokwim River Basin, Alaska. *Hydrological Processes*.
 * Levenson, E.S., Cooley, S. W., & Mullen, A. (2025). ABoVE: Alaska Lake and Pond Occurrence. ORNL DAAC, Oak Ridge, Tennessee, USA. https://doi.org/10.3334/ORNLDAAC/2399
