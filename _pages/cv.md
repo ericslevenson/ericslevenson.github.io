@@ -46,13 +46,16 @@ Professional Experience
 Publications
 -
 **Submitted and In Prep**
+
 * Levenson. E.S. (in prep). SWOT Performance Assessment and Multi-Sensor Enhancements for Water Storage Monitoring.
 * Levenson. E.S., S.W. Cooley (in prep). The timing and magnitude of pan-Arctic lake variability.
 * Simpson, A., E.S. Levenson, L. Karlstrom, S.W. Cooley. (submitted). Hydrologic Implications of Seasonally Draining Lakes in the Central Oregon Cascades. Water Resources Research.
 * Webb, E.E., S.W. Cooley, E.S. Levenson, J. Maze. (submitted). Discrepancies in Arctic-Boreal lake area trends driven by sensitivity to dry conditions. Hydrology and Earth System Sciences.
 * Webb E.E., S.W. Cooley, E.S. Levenson. (submitted). Temporal bias in Landsat-derived surface water trends. Nature.
 * Cooley, S.W., E.E. Webb, E.S. Levenson, J.C. Ryan. (submitted). Lakes modify the magnitude and timing of the Northern Hemisphere Terrestrial Cyrosphere Radiative Effect. PNAS.
-<br/><br/>**Published**
+
+**Published**
+
 * Levenson. E.S., S.W. Cooley, A. Mullen, E.E. Webb, J.D. Watts. (2025). Glacial history modifies permafrost controls on the distribution of lakes and ponds. Geophysical Research Letters.
 * Pletcher, A., S.W. Cooley, E.S. Levenson (accepted 2025). Observing fine-scale lake ice breakup dynamics in the Lower Kuskokwim River Basin, Alaska. *Hydrological Processes*.
 * Levenson, E.S., Cooley, S. W., & Mullen, A. (2025). ABoVE: Alaska Lake and Pond Occurrence. ORNL DAAC, Oak Ridge, Tennessee, USA. https://doi.org/10.3334/ORNLDAAC/2399
@@ -75,9 +78,9 @@ Selected Presentations
 
 Invited Seminars
 -
-AGU Biogeosciences Early Career Seminar, "Glacial History Modifies Permafrost Controls on the Distribution of Lakes and Ponds"
-USGS Water Mission Area, "Mapping Alaska's Lakes and Ponds and Their Permafrost Interactions"
-Alaska Geospatial Council "Hydrography Working Group, The Alaska Lake and Pond Occurrence Dataset, and novel SWOT applications for the future of Alaska Hydrology"
+* AGU Biogeosciences Early Career Seminar, "Glacial History Modifies Permafrost Controls on the Distribution of Lakes and Ponds"
+* USGS Water Mission Area, "Mapping Alaska's Lakes and Ponds and Their Permafrost Interactions"
+* Alaska Geospatial Council "Hydrography Working Group, The Alaska Lake and Pond Occurrence Dataset, and novel SWOT applications for the future of Alaska Hydrology"
 
 Service and leadership
 -
