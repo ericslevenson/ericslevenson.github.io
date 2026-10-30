@@ -14,7 +14,7 @@ I am a geographer, which -- as Hal Mooney suggested -- means that I am, "concern
 <p align="justify">
 <span style="font-size:1.0em;">The lure to<a href="/files/Earth-from-Space.pdf"> watch Earth from space</a> is strong, for both the beauty and the insight available from a satellite's point of view: </span></p>
 
-<img src="/images/lake_wse_anim_fps2.gif" alt="Global Pulse GIF">
+<img src="/images/lake_wse_anim_fps2_crop.gif" alt="Global Pulse GIF">
 
 <p align="justify"><span style="font-size:1.0em;"> For the first time ever, we can watch water levels rise and fall in lakes globally. The pulse of Earth's lakes is dramatic to watch, and it's just one example of how satellite-based research can feel like ilming a natural phenomenon -- such as a sunset or flood, while also enabling fulfilling science. This animation is only possible because of the recent launch of the SWOT satellite, which measures water surface elevation and extent in Earth's lakes, rivers, and oceans.</span></p>
 
